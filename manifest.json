@@ -1,0 +1,11 @@
+{
+  "name": "trials of currency",
+  "version": "1.0.0",
+  "description": "static + html + css + js",
+  "manifest_version": 3,
+  "author": "Manjara Raj",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "current currency exchanger"
+  }
+}
